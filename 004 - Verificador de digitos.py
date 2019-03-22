@@ -1,5 +1,8 @@
 digito = input('Digite algo: ')
+
+
 print()
+print('O Tipo Primitivo é ', type(digito))
 print('É alfanumérico ( letra e número ): ', digito.isalnum())
 print('É alfabético ( Letra ): ', digito.isalpha())
 print('É um número decimal): ', digito.isdecimal())
