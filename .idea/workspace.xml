@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d15658-15d7-471d-b1f6-43c0dea57251" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/008 - Conversor de Medidas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/007 - Média com duas notas..py" beforeDir="false" afterPath="$PROJECT_DIR$/007 - Média com duas notas..py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/007 - Média com duas notas..py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/008 - Conversor de Medidas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -61,6 +70,7 @@
         <option value="$PROJECT_DIR$/006 - Dobro, Triplo e Raiz.py" />
         <option value="$PROJECT_DIR$/006 - Doblo, Triplo e Raiz.py" />
         <option value="$PROJECT_DIR$/007 - Média com duas notas..py" />
+        <option value="$PROJECT_DIR$/008 - Conversor de Medidas.py" />
       </list>
     </option>
   </component>
@@ -77,6 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,7 +99,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,28 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.007 - Média com duas notas.">
-    <configuration name="004 - Verificador de digitos" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CeV-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/004 - Verificador de digitos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.008 - Conversor de Medidas">
     <configuration name="005 - Antecessor e Sucessor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,6 +180,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="008 - Conversor de Medidas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CeV-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/008 - Conversor de Medidas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Usando o .format no print" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.008 - Conversor de Medidas" />
         <item itemvalue="Python.007 - Média com duas notas." />
         <item itemvalue="Python.006 - Dobro, Triplo e Raiz" />
         <item itemvalue="Python.005 - Antecessor e Sucessor" />
         <item itemvalue="Python.Usando o .format no print" />
-        <item itemvalue="Python.004 - Verificador de digitos" />
       </list>
     </recent_temporary>
   </component>
@@ -282,14 +292,20 @@
       <option name="project" value="LOCAL" />
       <updated>1553351579654</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="007-Média de duas notas.">
+      <created>1553364700539</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553364700540</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1360" height="740" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="-1" width="1360" height="740" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550486" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25430068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -334,7 +350,8 @@
     <MESSAGE value="Verifica o que foi digitado, adicionado o enunciado do desafio." />
     <MESSAGE value="Antecessor e Sucessor de um número com print de variaveis e outros sem usa as variaveis ant e suc." />
     <MESSAGE value="Variveis com Doblo, triplo e a Raiz de um número." />
-    <option name="LAST_COMMIT_MESSAGE" value="Variveis com Doblo, triplo e a Raiz de um número." />
+    <MESSAGE value="007-Média de duas notas." />
+    <option name="LAST_COMMIT_MESSAGE" value="007-Média de duas notas." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/000 - Olá Mundo !.py">
@@ -396,7 +413,14 @@
     <entry file="file://$PROJECT_DIR$/007 - Média com duas notas..py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/008 - Conversor de Medidas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
