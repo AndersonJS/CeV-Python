@@ -354,7 +354,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1360" height="740" extended-state="7" />
+    <frame x="0" y="-1" width="1360" height="740" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25430068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -405,7 +405,8 @@
     <MESSAGE value="008-Metros em centimetros e milimetros." />
     <MESSAGE value="009-Tabuada Simples." />
     <MESSAGE value="010-Real para Dolar" />
-    <option name="LAST_COMMIT_MESSAGE" value="010-Real para Dolar" />
+    <MESSAGE value="011-Achando a área com altura multiplicado por largura e dividindo por 2m² que é igual ao litros de tinta para pinta um parede." />
+    <option name="LAST_COMMIT_MESSAGE" value="011-Achando a área com altura multiplicado por largura e dividindo por 2m² que é igual ao litros de tinta para pinta um parede." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/000 - Olá Mundo !.py">
