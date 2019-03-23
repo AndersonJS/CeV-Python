@@ -2,6 +2,8 @@
 
 nota1 = float(input('Digite sua primeira nota: '))
 nota2 = float(input('Digite a segunda nota: '))
-media = 2/(nota1 + nota2)
-
-print('A sua média é {}.'.format(media))
+media = (nota1 + nota2)/2
+print(' ')
+print('='*22)
+print('  A sua média é {}'.format(media))
+print(('='*22))

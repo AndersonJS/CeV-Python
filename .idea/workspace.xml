@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d15658-15d7-471d-b1f6-43c0dea57251" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/006 - Dobro, Triplo e Raiz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007 - Média com duas notas..py" beforeDir="false" afterPath="$PROJECT_DIR$/007 - Média com duas notas..py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/006 - Dobro, Triplo e Raiz.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/006 - Doblo, Triplo e Raiz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/007 - Média com duas notas..py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -50,6 +59,8 @@
         <option value="$PROJECT_DIR$/004 - Verificador de digitos.py" />
         <option value="$PROJECT_DIR$/005 - Antecessor e Sucessor.py" />
         <option value="$PROJECT_DIR$/006 - Dobro, Triplo e Raiz.py" />
+        <option value="$PROJECT_DIR$/006 - Doblo, Triplo e Raiz.py" />
+        <option value="$PROJECT_DIR$/007 - Média com duas notas..py" />
       </list>
     </option>
   </component>
@@ -95,28 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.006 - Dobro, Triplo e Raiz">
-    <configuration name="002 - Data Formatada" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CeV-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002 - Data Formatada.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.007 - Média com duas notas.">
     <configuration name="004 - Verificador de digitos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,6 +170,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="007 - Média com duas notas." type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CeV-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/007 - Média com duas notas..py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Usando o .format no print" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.007 - Média com duas notas." />
         <item itemvalue="Python.006 - Dobro, Triplo e Raiz" />
         <item itemvalue="Python.005 - Antecessor e Sucessor" />
         <item itemvalue="Python.Usando o .format no print" />
         <item itemvalue="Python.004 - Verificador de digitos" />
-        <item itemvalue="Python.002 - Data Formatada" />
       </list>
     </recent_temporary>
   </component>
@@ -257,11 +268,26 @@
       <option name="project" value="LOCAL" />
       <updated>1553312152988</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Variveis com Doblo, triplo e a Raiz de um número.">
+      <created>1553351152366</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553351152366</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Variveis com Doblo, triplo e a Raiz de um número.">
+      <created>1553351579654</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553351579654</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1360" height="740" extended-state="6" />
+    <frame x="0" y="-1" width="1360" height="740" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -307,7 +333,8 @@
     <MESSAGE value="Usando o .format e limitando a casa decimal de um float." />
     <MESSAGE value="Verifica o que foi digitado, adicionado o enunciado do desafio." />
     <MESSAGE value="Antecessor e Sucessor de um número com print de variaveis e outros sem usa as variaveis ant e suc." />
-    <option name="LAST_COMMIT_MESSAGE" value="Antecessor e Sucessor de um número com print de variaveis e outros sem usa as variaveis ant e suc." />
+    <MESSAGE value="Variveis com Doblo, triplo e a Raiz de um número." />
+    <option name="LAST_COMMIT_MESSAGE" value="Variveis com Doblo, triplo e a Raiz de um número." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/000 - Olá Mundo !.py">
@@ -359,10 +386,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/006 - Dobro, Triplo e Raiz.py">
+    <entry file="file://$PROJECT_DIR$/006 - Doblo, Triplo e Raiz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/007 - Média com duas notas..py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
