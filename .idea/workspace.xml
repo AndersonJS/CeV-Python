@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d15658-15d7-471d-b1f6-43c0dea57251" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/012 - Produto com 5% de Desconto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/013 - Salarío com aumento de 15%.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,11 +67,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/012 - Produto com 5% de Desconto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="112" selection-start-line="5" selection-start-column="112" selection-end-line="5" selection-end-column="112" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/013 - Salarío com aumento de 15%.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -111,6 +120,7 @@
         <option value="$PROJECT_DIR$/010 - Converso de Moeda Real para Dolar.py" />
         <option value="$PROJECT_DIR$/011 - Medindo a Parede.py" />
         <option value="$PROJECT_DIR$/012 - Produto com 5% de Desconto.py" />
+        <option value="$PROJECT_DIR$/013 - Salarío com aumento de 15%.py" />
       </list>
     </option>
   </component>
@@ -156,28 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.012 - Produto com 5% de Desconto">
-    <configuration name="008 - Conversor de Medidas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CeV-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/008 - Conversor de Medidas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.013 - Salarío com aumento de 15%">
     <configuration name="009 - Tabuada do número escolhido." type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,13 +251,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="013 - Salarío com aumento de 15%" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CeV-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/013 - Salarío com aumento de 15%.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.013 - Salarío com aumento de 15%" />
         <item itemvalue="Python.012 - Produto com 5% de Desconto" />
         <item itemvalue="Python.011 - Medindo a Parede" />
         <item itemvalue="Python.010 - Converso de Moeda Real para Dolar" />
         <item itemvalue="Python.009 - Tabuada do número escolhido." />
-        <item itemvalue="Python.008 - Conversor de Medidas" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553377691101</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="012-Produto com 5% de desconto.">
+      <created>1553379084632</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1553379084633</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -431,7 +448,8 @@
     <MESSAGE value="010-Real para Dolar" />
     <MESSAGE value="011-Achando a área com altura multiplicado por largura e dividindo por 2m² que é igual ao litros de tinta para pinta um parede." />
     <MESSAGE value="011-Achando a área com altura multiplicado por largura e dividindo por 2m² que é igual ao litros de tinta para pinta uma parede." />
-    <option name="LAST_COMMIT_MESSAGE" value="011-Achando a área com altura multiplicado por largura e dividindo por 2m² que é igual ao litros de tinta para pinta uma parede." />
+    <MESSAGE value="012-Produto com 5% de desconto." />
+    <option name="LAST_COMMIT_MESSAGE" value="012-Produto com 5% de desconto." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/000 - Olá Mundo !.py">
@@ -527,8 +545,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/012 - Produto com 5% de Desconto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="112" selection-start-line="5" selection-start-column="112" selection-end-line="5" selection-end-column="112" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/013 - Salarío com aumento de 15%.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
