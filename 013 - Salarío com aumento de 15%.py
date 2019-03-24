@@ -1,4 +1,4 @@
-"""Faça um algoritmo que leia um Salarío de um fincionário e mostre seu novo salarío, com 15% de Aumento."""
+"""Faça um algoritmo que leia um Salarío de um funcionário e mostre seu novo salarío, com 15% de Aumento."""
 
 sal = float(input('Digite o seu salarío: '))
 aumento = sal+(15*sal)/100
