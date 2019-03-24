@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d15658-15d7-471d-b1f6-43c0dea57251" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/017 - Cateto oposto, Cateto adjacente e Hipotenusa.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/017 - Cateto oposto, Cateto adjacente e Hipotenusa.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/018 - Seno, Cosseno e Tangente de um ãngulo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -90,6 +98,7 @@
         <option value="$PROJECT_DIR$/015 - Aluguel de Carros.py" />
         <option value="$PROJECT_DIR$/016 - Número Real para Inteiro.py" />
         <option value="$PROJECT_DIR$/017 - Cateto oposto, Cateto adjacente e Hipotenusa.py" />
+        <option value="$PROJECT_DIR$/018 - Seno, Cosseno e Tangente de um ãngulo.py" />
       </list>
     </option>
   </component>
@@ -136,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.017 - Cateto oposto, Cateto adjacente e Hipotenusa">
+  <component name="RunManager" selected="Python.018 - Seno, Cosseno e Tangente de um ãngulo">
     <configuration name="014 - Conversor de Temperatura" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="A8 usando módulo emoji" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="018 - Seno, Cosseno e Tangente de um ãngulo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,7 +242,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A8 usando módulo emoji.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/018 - Seno, Cosseno e Tangente de um ãngulo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.018 - Seno, Cosseno e Tangente de um ãngulo" />
         <item itemvalue="Python.017 - Cateto oposto, Cateto adjacente e Hipotenusa" />
         <item itemvalue="Python.016 - Número Real para Inteiro" />
         <item itemvalue="Python.015 - Aluguel de Carros" />
         <item itemvalue="Python.014 - Conversor de Temperatura" />
-        <item itemvalue="Python.A8 usando módulo emoji" />
       </list>
     </recent_temporary>
   </component>
@@ -410,11 +419,26 @@
       <option name="project" value="LOCAL" />
       <updated>1553454736006</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="017-Programa que pede a medida do cateto oposto e do cateto adjacente e mostra a hipotenusa.">
+      <created>1553463380492</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1553463380492</updated>
+    </task>
+    <task id="LOCAL-00023" summary="018-Seno, coseno e tangente de um angulo e convertendo o grau para radiano com o radians.">
+      <created>1553464921391</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1553464921391</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1360" height="740" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13462977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -473,7 +497,9 @@
     <MESSAGE value="014-ºC convertido para ºF" />
     <MESSAGE value="015-Calcula os dias de uso por 60 e os km por 015 e mostra o total a pagar pelo aluguel do veículo." />
     <MESSAGE value="016-Parte inteira de um numero real,1 feito com a lib math, 2 feito com math e apenas import truck, 3 feito sem lib." />
-    <option name="LAST_COMMIT_MESSAGE" value="016-Parte inteira de um numero real,1 feito com a lib math, 2 feito com math e apenas import truck, 3 feito sem lib." />
+    <MESSAGE value="017-Programa que pede a medida do cateto oposto e do cateto adjacente e mostra a hipotenusa." />
+    <MESSAGE value="018-Seno, coseno e tangente de um angulo e convertendo o grau para radiano com o radians." />
+    <option name="LAST_COMMIT_MESSAGE" value="018-Seno, coseno e tangente de um angulo e convertendo o grau para radiano com o radians." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/000 - Olá Mundo !.py">
@@ -616,6 +642,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018 - Seno, Cosseno e Tangente de um ãngulo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
