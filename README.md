@@ -8,7 +8,6 @@ Professore: GUSTAVO GUANABARA
 EMENTA DO CURSO
 
 Conhecendo a Linguagem e Instalando o Python
-
 Python – Fase 01 – O que faz um Programador?	GRÁTIS	
  00:29:00
 
@@ -31,7 +30,6 @@ Python – Fase 05 – Instalando IDE no PC e no celular	GRÁTIS
 00:32:00
 
 Primeiros passos na Linguagem Python
-
 Python – Fase 06 – Tipos Primitivos e Saída de Dados	GRÁTIS	
 00:30:00
 
