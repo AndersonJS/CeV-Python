@@ -31,6 +31,7 @@ Python – Fase 05 – Instalando IDE no PC e no celular	GRÁTIS
 00:32:00
 
 Primeiros passos na Linguagem Python
+
 Python – Fase 06 – Tipos Primitivos e Saída de Dados	GRÁTIS	
 00:30:00
 

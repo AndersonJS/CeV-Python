@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d15658-15d7-471d-b1f6-43c0dea57251" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A09 - Manipulado Texto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8 usando módulo emoji.py" beforeDir="false" afterPath="$PROJECT_DIR$/A08 - Usando o módulo emoji.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +21,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/A09 - Manipulado Texto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="325">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="396">
+                <caret line="40" selection-start-line="40" selection-end-line="40" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -78,6 +88,7 @@
         <option value="$PROJECT_DIR$/020 - Sorteio para apresentação de trabalho.py" />
         <option value="$PROJECT_DIR$/021 - Tocando um MP3.py" />
         <option value="$PROJECT_DIR$/A09 - manipulado Texto.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -452,24 +463,38 @@
       <option name="project" value="LOCAL" />
       <updated>1553479247204</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="A09 - Manipulando Texto, com fatoração, len, coun, fin, operador iteravel in, replace, upper, lower, capitalize, title, strip,rstrip e lstrip,split e o .join">
+      <created>1553542740208</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1553542740208</updated>
+    </task>
+    <task id="LOCAL-00030" summary="A08 - Usando o módulo emoji">
+      <created>1553542820504</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1553542820504</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1360" height="740" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13462977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13462977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25324675" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25324675" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2159091" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2159091" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -521,7 +546,8 @@
     <MESSAGE value="020-Ordem de apresentação de trabalho, com a lib random e o shuffle para embaralhar os nomes." />
     <MESSAGE value="021-Tocando áudio mp3 com o pygame" />
     <MESSAGE value="A09 - Manipulando Texto, com fatoração, len, coun, fin, operador iteravel in, replace, upper, lower, capitalize, title, strip,rstrip e lstrip,split e o .join" />
-    <option name="LAST_COMMIT_MESSAGE" value="A09 - Manipulando Texto, com fatoração, len, coun, fin, operador iteravel in, replace, upper, lower, capitalize, title, strip,rstrip e lstrip,split e o .join" />
+    <MESSAGE value="A08 - Usando o módulo emoji" />
+    <option name="LAST_COMMIT_MESSAGE" value="A08 - Usando o módulo emoji" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/000 - Olá Mundo !.py">
@@ -697,8 +723,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/A09 - Manipulado Texto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="325">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="40" selection-start-line="40" selection-end-line="40" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
