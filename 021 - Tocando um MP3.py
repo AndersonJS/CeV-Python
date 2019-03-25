@@ -5,3 +5,4 @@ pygame.init()
 pygame.mixer.music.load('021.mp3')
 pygame.mixer.music.play()
 pygame.event.wait()
+pygame.mixer.music.stop()  # Testei para a execução quando o mp3 parar de tocar mais não deu certo com esse método.
