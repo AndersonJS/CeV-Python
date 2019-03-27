@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d15658-15d7-471d-b1f6-43c0dea57251" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/023 - Separando dígitos de um número.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/024 - Analisador de nome de cidade com Santo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/023 - Separando dígitos de um número.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/024 - Analisador de nome de cidade com Santo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -72,6 +81,7 @@
         <option value="$PROJECT_DIR$/A09 - Manipulado Texto.py" />
         <option value="$PROJECT_DIR$/022 - Analisador de Texto.py" />
         <option value="$PROJECT_DIR$/023 - Separando dígitos de um número.py" />
+        <option value="$PROJECT_DIR$/024 - Analisador de nome de cidade com Santo.py" />
       </list>
     </option>
   </component>
@@ -123,28 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.023 - Separando dígitos de um número">
-    <configuration name="020 - Sorteio para apresentação de trabalho" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CeV-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020 - Sorteio para apresentação de trabalho.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.024 - Analisador de nome de cidade com Santo">
     <configuration name="021 - Tocando um MP3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,6 +197,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="024 - Analisador de nome de cidade com Santo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CeV-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/024 - Analisador de nome de cidade com Santo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="A09 - manipulado Texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.024 - Analisador de nome de cidade com Santo" />
         <item itemvalue="Python.023 - Separando dígitos de um número" />
         <item itemvalue="Python.022 - Analisador de Texto" />
         <item itemvalue="Python.A09 - manipulado Texto" />
         <item itemvalue="Python.021 - Tocando um MP3" />
-        <item itemvalue="Python.020 - Sorteio para apresentação de trabalho" />
       </list>
     </recent_temporary>
   </component>
@@ -502,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553647380131</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="023-Separando um número por unidade, dezena, centena e milhar.">
+      <created>1553692186911</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1553692186912</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -547,7 +564,6 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Antecessor e Sucessor de um número com print de variaveis e outros sem usa as variaveis ant e suc." />
     <MESSAGE value="Variveis com Doblo, triplo e a Raiz de um número." />
     <MESSAGE value="007-Média de duas notas." />
     <MESSAGE value="008-Metros em centimetros e milimetros." />
@@ -572,7 +588,8 @@
     <MESSAGE value="021 - Tocando um mp3 com Pygame, falta uma opção para a execução do script parar quando o mp3 parar de tocar." />
     <MESSAGE value="A09 - Formas de se analisar um texto." />
     <MESSAGE value="022 - Analisando o nome completo de uma pessoa e imprimindo o nome em maiusculo em minusculo, quantas letras tem ao todo, quantas letras tem o primeiro e qual é." />
-    <option name="LAST_COMMIT_MESSAGE" value="022 - Analisando o nome completo de uma pessoa e imprimindo o nome em maiusculo em minusculo, quantas letras tem ao todo, quantas letras tem o primeiro e qual é." />
+    <MESSAGE value="023-Separando um número por unidade, dezena, centena e milhar." />
+    <option name="LAST_COMMIT_MESSAGE" value="023-Separando um número por unidade, dezena, centena e milhar." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/000 - Olá Mundo !.py">
@@ -774,6 +791,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/024 - Analisador de nome de cidade com Santo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
