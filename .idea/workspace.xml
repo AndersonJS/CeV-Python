@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d15658-15d7-471d-b1f6-43c0dea57251" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/025 - Analisar se o sobrenome  tem Silva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/026 - Encontrando e contado os 'A' na frase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/025 - Analisar se o sobrenome  tem Silva.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/026 - Encontrando e contado os 'A' na frase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -92,6 +101,7 @@
         <option value="$PROJECT_DIR$/023 - Separando dígitos de um número.py" />
         <option value="$PROJECT_DIR$/024 - Analisador de nome de cidade com Santo.py" />
         <option value="$PROJECT_DIR$/025 - Analisar se o sobrenome  tem Silva.py" />
+        <option value="$PROJECT_DIR$/026 - Encontrando e contado os 'A' na frase.py" />
       </list>
     </option>
   </component>
@@ -143,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.025 - Analisar se o sobrenome  tem Silva">
+  <component name="RunManager" selected="Python.026 - Encontrando e contado os 'A' na frase">
     <configuration name="022 - Analisador de Texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="A09 - manipulado Texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="026 - Encontrando e contado os 'A' na frase" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,7 +250,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A09 - Manipulado Texto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/026 - Encontrando e contado os 'A' na frase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.026 - Encontrando e contado os 'A' na frase" />
         <item itemvalue="Python.025 - Analisar se o sobrenome  tem Silva" />
         <item itemvalue="Python.024 - Analisador de nome de cidade com Santo" />
         <item itemvalue="Python.023 - Separando dígitos de um número" />
         <item itemvalue="Python.022 - Analisador de Texto" />
-        <item itemvalue="Python.A09 - manipulado Texto" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553694348425</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="025-Analisando o nome de uma pessoa e mostrando se ele tem silva.">
+      <created>1553695077966</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1553695077966</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -581,7 +598,6 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="007-Média de duas notas." />
     <MESSAGE value="008-Metros em centimetros e milimetros." />
     <MESSAGE value="009-Tabuada Simples." />
     <MESSAGE value="010-Real para Dolar" />
@@ -606,7 +622,8 @@
     <MESSAGE value="022 - Analisando o nome completo de uma pessoa e imprimindo o nome em maiusculo em minusculo, quantas letras tem ao todo, quantas letras tem o primeiro e qual é." />
     <MESSAGE value="023-Separando um número por unidade, dezena, centena e milhar." />
     <MESSAGE value="024-Analisador de nome de cidade, o objetivo é mostrar se a cidade tem Santo ou São em seu nome." />
-    <option name="LAST_COMMIT_MESSAGE" value="024-Analisador de nome de cidade, o objetivo é mostrar se a cidade tem Santo ou São em seu nome." />
+    <MESSAGE value="025-Analisando o nome de uma pessoa e mostrando se ele tem silva." />
+    <option name="LAST_COMMIT_MESSAGE" value="025-Analisando o nome de uma pessoa e mostrando se ele tem silva." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/000 - Olá Mundo !.py">
@@ -821,7 +838,14 @@
     <entry file="file://$PROJECT_DIR$/025 - Analisar se o sobrenome  tem Silva.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/026 - Encontrando e contado os 'A' na frase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
