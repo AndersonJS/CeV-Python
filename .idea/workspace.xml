@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d15658-15d7-471d-b1f6-43c0dea57251" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/022 - Analisador de Texto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/021 - Tocando um MP3.py" beforeDir="false" afterPath="$PROJECT_DIR$/021 - Tocando um MP3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A09 - Manipulado Texto.py" beforeDir="false" afterPath="$PROJECT_DIR$/A09 - Manipulado Texto.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,32 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/021 - Tocando um MP3.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/022 - Analisador de Texto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="115" selection-start-line="7" selection-start-column="115" selection-end-line="7" selection-end-column="115" />
+            <state relative-caret-position="324">
+              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/A09 - Manipulado Texto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="396">
-                <caret line="52" selection-start-line="52" selection-end-line="52" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="263">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -90,6 +79,8 @@
         <option value="$PROJECT_DIR$/A09 - manipulado Texto.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/021 - Tocando um MP3.py" />
+        <option value="$PROJECT_DIR$/022 - Analisador de Texto.py" />
+        <option value="$PROJECT_DIR$/A09 - Manipulado Texto.py" />
       </list>
     </option>
   </component>
@@ -121,7 +112,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_Pro-SSH" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -141,28 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.021 - Tocando um MP3">
-    <configuration name="018 - Seno, Cosseno e Tangente de um ãngulo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CeV-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/018 - Seno, Cosseno e Tangente de um ãngulo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.A09 - manipulado Texto">
     <configuration name="019 - Sorteio apaga quadro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,6 +196,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="022 - Analisador de Texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CeV-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/022 - Analisador de Texto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="A09 - manipulado Texto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.021 - Tocando um MP3" />
         <item itemvalue="Python.A09 - manipulado Texto" />
+        <item itemvalue="Python.022 - Analisador de Texto" />
+        <item itemvalue="Python.021 - Tocando um MP3" />
         <item itemvalue="Python.020 - Sorteio para apresentação de trabalho" />
         <item itemvalue="Python.019 - Sorteio apaga quadro" />
-        <item itemvalue="Python.018 - Seno, Cosseno e Tangente de um ãngulo" />
       </list>
     </recent_temporary>
   </component>
@@ -499,14 +490,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553543945661</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="021 - Tocando um mp3 com Pygame, falta uma opção para a execução do script parar quando o mp3 parar de tocar.">
+      <created>1553545389136</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1553545389136</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1360" height="740" extended-state="6" />
+    <frame x="0" y="-1" width="1366" height="740" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13462977" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1340283" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -545,7 +543,6 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="004-Desafios em Python." />
     <MESSAGE value="Usando o .format e limitando a casa decimal de um float." />
     <MESSAGE value="Verifica o que foi digitado, adicionado o enunciado do desafio." />
     <MESSAGE value="Antecessor e Sucessor de um número com print de variaveis e outros sem usa as variaveis ant e suc." />
@@ -570,7 +567,8 @@
     <MESSAGE value="A09 - Manipulando Texto, com fatoração, len, coun, fin, operador iteravel in, replace, upper, lower, capitalize, title, strip,rstrip e lstrip,split e o .join" />
     <MESSAGE value="A08 - Usando o módulo emoji" />
     <MESSAGE value="Read Me mais detalhado." />
-    <option name="LAST_COMMIT_MESSAGE" value="Read Me mais detalhado." />
+    <MESSAGE value="021 - Tocando um mp3 com Pygame, falta uma opção para a execução do script parar quando o mp3 parar de tocar." />
+    <option name="LAST_COMMIT_MESSAGE" value="021 - Tocando um mp3 com Pygame, falta uma opção para a execução do script parar quando o mp3 parar de tocar." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/000 - Olá Mundo !.py">
@@ -737,10 +735,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A09 - Manipulado Texto.py">
+    <entry file="file://$PROJECT_DIR$/021 - Tocando um MP3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="126">
+          <caret line="7" column="115" selection-start-line="7" selection-start-column="115" selection-end-line="7" selection-end-column="115" />
         </state>
       </provider>
     </entry>
@@ -754,10 +752,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/021 - Tocando um MP3.py">
+    <entry file="file://$PROJECT_DIR$/022 - Analisador de Texto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="115" selection-start-line="7" selection-start-column="115" selection-end-line="7" selection-end-column="115" />
+        <state relative-caret-position="324">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A09 - Manipulado Texto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
